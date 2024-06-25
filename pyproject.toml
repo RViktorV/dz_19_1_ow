@@ -6,6 +6,8 @@ authors = ["vitek <rgavih@yandex.ru>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+Flask = "^3.0.3"
+requests = "^2.32.3"
 
 [tool.poetry.dev-dependencies]
 
